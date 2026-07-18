@@ -1,0 +1,12 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+Thumbs.db
+desktop.ini
+.DS_Store

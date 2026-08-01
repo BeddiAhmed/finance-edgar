@@ -1,0 +1,17 @@
+# Normalize line endings: LF in the repository, on every platform.
+# Added during the Windows -> macOS migration (2026-08-01).
+
+* text=auto eol=lf
+
+# Binaries — never touch these
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.ttf binary
+*.otf binary
+*.ipynb binary
